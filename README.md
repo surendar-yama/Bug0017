@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bug0017
 - 👀 I’m interested in fullstack javascript development.
-- 🌱 I’m currently learning Angular and Nestjs ...
+- 🌱 I’m currently learning Svelte...
 
 
 <!---
