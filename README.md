@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bug0017
+- 👋 Hi, I’m Surendar Yama.
 - 👀 I’m interested in fullstack javascript development.
 - 🌱 I’m currently learning Svelte...
 
